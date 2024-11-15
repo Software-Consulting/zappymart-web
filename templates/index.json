@@ -44,8 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/letter-board-black-friday-cyber-monday.jpg",
-        "image_2": "shopify://shop_images/black-and-red-friday.jpg",
+        "image": "shopify://shop_images/zappy-mart-christmas.webp",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -64,14 +63,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Zappy Mart: Your One-Stop Shop for Everything You Need!",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Welcome to Zappy Mart, your ultimate destination for quality products, unbeatable deals, and a seamless shopping experience! At Zappy Mart, we pride ourselves on offering a diverse range of products, from everyday essentials to unique finds, all carefully selected to bring you the best value.</p><p>This season, we’re excited to bring you exclusive holiday deals that make gifting easy and shopping enjoyable. Explore our festive collections, perfect for everyone on your list, or treat yourself to something special. Thank you for choosing Zappy Mart—where great deals meet great service.</p>"
           }
         }
       },
